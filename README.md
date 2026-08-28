@@ -1,5 +1,6 @@
 # EX-NO.-4a-MACHINE-LEARNING-MODEL-LINEAR-REGRESSION
 ## AIM
+
 To predict house prices using regression models and compare the performance of different machine learning regression models based on RMSE, MAE, and R².
 1.Machine Learning:Machine Learning is used to learn patterns from existing data and make predictions. 
 •	Regression is a supervised learning technique used to predict continuous numerical values. 
@@ -504,4 +505,3 @@ plt.show()
 •	The model with the lowest RMSE performs best according to this metric.
 ## CONCLUSION
 Thus, Linear Regression and other regression models were successfully applied for house price prediction, and their performance was compared using standard regression evaluation metrics.
-
